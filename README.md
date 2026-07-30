@@ -2,6 +2,7 @@
 id: proj-learninghubdemo-001
 title: 학습허브 사이트 — 완성 예시 데모
 type: 프로젝트
+프로젝트: proj-course-renewal-001
 status: 완성
 공개: false
 ---
