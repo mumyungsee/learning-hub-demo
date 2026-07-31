@@ -1,6 +1,6 @@
 ---
 id: proj-learninghubdemo-001
-title: 학습허브 사이트 — 완성 예시 데모
+title: 30일 챌린지 완성 예시 — 학습허브
 type: 프로젝트
 프로젝트: proj-course-renewal-001
 status: 완성
